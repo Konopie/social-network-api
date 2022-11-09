@@ -3,22 +3,13 @@
         * [Description](#description)
         * [Installation](#installation)
         * [Usage](#usage)
-        * [License](#license)
-        * [Contribution](#contribution)
-        * [Questions](#github)
-
+        
         ##Description 
-        the backend for a social network that allows users to post thoughts react to thoughts and add frinds
+        An API for a social network where users can share their thoughts, react to their friends thoughts, and create a friends list. Uses Express.js for routing, MongoDB database, and Mongoose ODM.
         ##Installation
         git clone
         ##Usage
         console
-        ##License
-        N/A
-        ##Contribution
-        N/A
-        ##Tests
-        N/A
         ##Questions
         GitHub: Konopie
         email: codycooper06@gmail.com
