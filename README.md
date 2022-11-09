@@ -17,3 +17,5 @@
         Video Demo pt 1: https://drive.google.com/file/d/1aMfPpCIX-fb3AYzKMgSrRKSUAOWDbCn_/view
         
         Video Demo Pt 2: https://drive.google.com/file/d/1_UK_rlvlyKAn7wyYlLaTUZgk3pGjTSsS/view
+        
+![Screenshot of Insomnia demonstrating function](https://user-images.githubusercontent.com/99047158/200738271-60976b02-17f8-4e21-bd17-1a52bd735ab6.png)
