@@ -9,7 +9,7 @@
         ##Installation
         git clone
         ##Usage
-        console
+        start server in console and test routes in insomnia  
         ##Questions
         GitHub: Konopie
         email: codycooper06@gmail.com
